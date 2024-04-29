@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+  background-color: rgb(220, 243, 245);
+}
+
+h1 {
+  font-size: 50px;
+  border: 5px solid lightblue;
+  background-color: aliceblue;
+}
+
+nav {
+  font-size: 25px;
+  font-style: italic;
+}
+
+.photo-1 {
+  border: 10px solid lightblue;
+}
+
+.photo-2 {
+  border: 10px solid lightblue;
+}
+
+.photo-3 {
+  border: 10px solid lightblue;
+}
+
+.photo-4 {
+  border: 10px solid lightblue;
+}
